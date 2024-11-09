@@ -2,7 +2,8 @@
 
 # 🌸✨ Welcome to **ProjectName**! ✨🌸
 
-![Anime Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fsolo-leveling-4k&psig=AOvVaw3HMBx2ZdQSE-TGHo15QjqJ&ust=1731240207146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiKib6az4kDFQAAAAAdAAAAABAE)
+
+![Solo Levelling](https://wallpapers.com/images/featured/solo-leveling-4k-r0x71qsxnuxe7gzo.jpg)
 
 ---
 
